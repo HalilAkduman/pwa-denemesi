@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1692298459928,
+  "timestamp": 1692299704635,
   "index": "https://halilAkduman.github.io/pwa-denemesi/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://halilAkduman.github.io/pwa-denemesi/favicon.ico",
         "https://halilAkduman.github.io/pwa-denemesi/index.html",
-        "https://halilAkduman.github.io/pwa-denemesi/main.c455cf1925016d5b.js",
+        "https://halilAkduman.github.io/pwa-denemesi/main.935c7d6de6e55212.js",
         "https://halilAkduman.github.io/pwa-denemesi/manifest.webmanifest",
         "https://halilAkduman.github.io/pwa-denemesi/polyfills.4f1fe61400738b46.js",
         "https://halilAkduman.github.io/pwa-denemesi/runtime.4fbbca247199e4b5.js",
-        "https://halilAkduman.github.io/pwa-denemesi/styles.9c5a0c5a911f4876.css"
+        "https://halilAkduman.github.io/pwa-denemesi/styles.60c7b9ba590ab6a1.css"
       ],
       "patterns": []
     },
@@ -110,14 +109,13 @@
     "https://halilAkduman.github.io/pwa-denemesi/assets/images/slider/slider_2.png": "1af820b6702c66a4f9c21f2acb6a7a1829568ed4",
     "https://halilAkduman.github.io/pwa-denemesi/assets/js/main.js": "70e8965fa225ab83ec01bbf3fbabbdea799f7aae",
     "https://halilAkduman.github.io/pwa-denemesi/counter.aa0f659915f61262.jpg": "e7f0c44fe849f8ead48ac0276a577c572a4e9c6b",
-    "https://halilAkduman.github.io/pwa-denemesi/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://halilAkduman.github.io/pwa-denemesi/index.html": "a0ec7a5b38cb1a82bc091ae49c61da0625c4da85",
-    "https://halilAkduman.github.io/pwa-denemesi/main.c455cf1925016d5b.js": "46885316afa86702cbae3325281f3e7bef201f2d",
+    "https://halilAkduman.github.io/pwa-denemesi/index.html": "81a5236028ee08192c684bc603ed9d366c1c38b8",
+    "https://halilAkduman.github.io/pwa-denemesi/main.935c7d6de6e55212.js": "f8562c1588f385e69e13e203233d537b48d921ed",
     "https://halilAkduman.github.io/pwa-denemesi/manifest.webmanifest": "e71a1d5019c422dc8a40698a163919e2081881fb",
     "https://halilAkduman.github.io/pwa-denemesi/polyfills.4f1fe61400738b46.js": "b923e87c48f27c08a72d6c5a9fd314a6fabea974",
     "https://halilAkduman.github.io/pwa-denemesi/runtime.4fbbca247199e4b5.js": "cddf9d26370fc925e76d21847f25d8ecde9cf3f5",
     "https://halilAkduman.github.io/pwa-denemesi/slider_1.c1e1429b8923c593.png": "6ce1b25bd46e16313bccadc8aafb757a8bccd1d0",
-    "https://halilAkduman.github.io/pwa-denemesi/styles.9c5a0c5a911f4876.css": "f24d8fac7e989ded0b69d4f26f2089ce62ba6c72"
+    "https://halilAkduman.github.io/pwa-denemesi/styles.60c7b9ba590ab6a1.css": "2a3a0f5b9de1d2f549f033c56f86fb8d1d910b98"
   },
   "navigationUrls": [
     {
