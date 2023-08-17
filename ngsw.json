@@ -1,0 +1,141 @@
+{
+  "configVersion": 1,
+  "timestamp": 1692298459928,
+  "index": "https://halilAkduman.github.io/pwa-denemesi/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://halilAkduman.github.io/pwa-denemesi/favicon.ico",
+        "https://halilAkduman.github.io/pwa-denemesi/index.html",
+        "https://halilAkduman.github.io/pwa-denemesi/main.c455cf1925016d5b.js",
+        "https://halilAkduman.github.io/pwa-denemesi/manifest.webmanifest",
+        "https://halilAkduman.github.io/pwa-denemesi/polyfills.4f1fe61400738b46.js",
+        "https://halilAkduman.github.io/pwa-denemesi/runtime.4fbbca247199e4b5.js",
+        "https://halilAkduman.github.io/pwa-denemesi/styles.9c5a0c5a911f4876.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://halilAkduman.github.io/pwa-denemesi/assets/icons/icon-128x128.png",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/icons/icon-144x144.png",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/icons/icon-152x152.png",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/icons/icon-192x192.png",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/icons/icon-384x384.png",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/icons/icon-512x512.png",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/icons/icon-72x72.png",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/icons/icon-96x96.png",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/about.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/avatar-1.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/avatar-2.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/avatar-3.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/avatar-4.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/avatar-5.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/avatar-6.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/blog-post-1.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/blog-post-2.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/blog-post-3.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/counter.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/hero-1.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/hero-2.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/logo-dark.svg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/logo-white.svg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/person-1.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/person-2.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/person-3.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/project-1.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/project-2.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/project-3.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/project-4.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/project-5.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/project-6.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/logos/logo-thinklab.png",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/slider/slider_1.png",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/images/slider/slider_2.png",
+        "https://halilAkduman.github.io/pwa-denemesi/assets/js/main.js",
+        "https://halilAkduman.github.io/pwa-denemesi/counter.aa0f659915f61262.jpg",
+        "https://halilAkduman.github.io/pwa-denemesi/slider_1.c1e1429b8923c593.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://halilAkduman.github.io/pwa-denemesi/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/about.jpg": "36979e4c7968201c55e41bd2e6ba46b019374040",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/avatar-1.jpg": "4d672f1f87298749e97d5dafbdf72fbc1bfcd04a",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/avatar-2.jpg": "9c54eca2aef82c270fd52ab9e9aa772dd50cee3f",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/avatar-3.jpg": "ae1cf01378407afb99ea801b87e6c441257d943e",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/avatar-4.jpg": "a1d8708eb6c28efaf1a613b441ecdaaa6eb8d608",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/avatar-5.jpg": "5419ec6789cc29fa027e83a8020bce1665c078ed",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/avatar-6.jpg": "6df727119e865a1591a7a42fc26412973f0513db",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/blog-post-1.jpg": "791706842f2549e339b02e91ba5b70c86884976c",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/blog-post-2.jpg": "e2146e4bcd1ab9a518eab2d18cc96fe6bd6cd1dc",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/blog-post-3.jpg": "2315b177a254b04aeb1ce8072af8419b6bade793",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/counter.jpg": "e7f0c44fe849f8ead48ac0276a577c572a4e9c6b",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/hero-1.jpg": "d4ce160dcfd48612a7234cd8c6e5e8dd448f589f",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/hero-2.jpg": "0bb333485eed93770c37c361cca7b1fac47bc985",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/logo-dark.svg": "ced767118abd7c973559ffd6fc9295b36e765301",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/logo-white.svg": "57495d05287872c368cad94f8970706419c4347e",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/person-1.jpg": "96c0cd683a37acad7840a611c795c6018849a699",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/person-2.jpg": "db8fec8bddd07a062c696df82e30b52d00a40bb3",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/person-3.jpg": "32e8e1bed3c14c637a344f4d414d809870cfb0b8",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/project-1.jpg": "cd5090e0894fc38689bbd366a55326b7a4cb90c2",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/project-2.jpg": "e6f303684eb2973d5cbccf853b3cfbcf446b2c2d",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/project-3.jpg": "e9b3ee6228b2445c9a7fa3bd046dcf7493a83ae2",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/project-4.jpg": "51163d9d89562230245dff9297086b3507f3a9a8",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/project-5.jpg": "e7e152b29d99edac62cb8e87a667fa88a982e00c",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/junk/project-6.jpg": "6b1191328ab9a1010e6f712cbc9d13258c83803a",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/logos/logo-thinklab.png": "2219f61388b7efeabb705ce3de72d0d4c8c00f92",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/slider/slider_1.png": "6ce1b25bd46e16313bccadc8aafb757a8bccd1d0",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/images/slider/slider_2.png": "1af820b6702c66a4f9c21f2acb6a7a1829568ed4",
+    "https://halilAkduman.github.io/pwa-denemesi/assets/js/main.js": "70e8965fa225ab83ec01bbf3fbabbdea799f7aae",
+    "https://halilAkduman.github.io/pwa-denemesi/counter.aa0f659915f61262.jpg": "e7f0c44fe849f8ead48ac0276a577c572a4e9c6b",
+    "https://halilAkduman.github.io/pwa-denemesi/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://halilAkduman.github.io/pwa-denemesi/index.html": "a0ec7a5b38cb1a82bc091ae49c61da0625c4da85",
+    "https://halilAkduman.github.io/pwa-denemesi/main.c455cf1925016d5b.js": "46885316afa86702cbae3325281f3e7bef201f2d",
+    "https://halilAkduman.github.io/pwa-denemesi/manifest.webmanifest": "e71a1d5019c422dc8a40698a163919e2081881fb",
+    "https://halilAkduman.github.io/pwa-denemesi/polyfills.4f1fe61400738b46.js": "b923e87c48f27c08a72d6c5a9fd314a6fabea974",
+    "https://halilAkduman.github.io/pwa-denemesi/runtime.4fbbca247199e4b5.js": "cddf9d26370fc925e76d21847f25d8ecde9cf3f5",
+    "https://halilAkduman.github.io/pwa-denemesi/slider_1.c1e1429b8923c593.png": "6ce1b25bd46e16313bccadc8aafb757a8bccd1d0",
+    "https://halilAkduman.github.io/pwa-denemesi/styles.9c5a0c5a911f4876.css": "f24d8fac7e989ded0b69d4f26f2089ce62ba6c72"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
